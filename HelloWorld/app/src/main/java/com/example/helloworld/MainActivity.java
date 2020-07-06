@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.i("111111", "onCreate: 1111");
+        Log.i("HW1", "onCreate: Cry");
+        Log.i("HW1", "onCreate: Cry");
     }
 }
